@@ -1,4 +1,5 @@
 import 'zone.js/dist/zone-node';
+import '@ng-web-apis/universal/mocks';
 
 import { ngExpressEngine } from '@nguniversal/express-engine';
 import * as express from 'express';
